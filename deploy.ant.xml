@@ -151,7 +151,7 @@
  <property name="host" value="172.17.12.226"/>`
   <property name="uid" value="admin"/>
   <property name="pwd" value="miracle"/>
-  <property name="domain" value="New_Trainees"/>	
+  <property name="domain" value="MTOM"/>	
   <!-- Ensure we know where DCM is located. -->
   <fail message="Please define the ANT property 'dcm.dir', which points to the directory where DCM is installed." unless="dcm.dir"/>
   <available filepath="${dcm.dir}" file="dist/dcm.jar" property="dcm.dir.good"/>
