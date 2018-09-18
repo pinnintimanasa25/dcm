@@ -148,7 +148,7 @@
 
   <description>Implement various DataPower deployment operations.</description>
 <property name="dcm.dir" value="D:\ANT\datapower-configuration-manager-master"/>
- <property name="host" value="172.17.12.226"/>`
+ <property name="host" value="172.17.12.226"/>
   <property name="uid" value="admin"/>
   <property name="pwd" value="miracle"/>
   <property name="domain" value="Training_1"/>	
